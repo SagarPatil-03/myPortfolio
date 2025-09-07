@@ -7,7 +7,7 @@ I am a fresher with knowledge of **Core Java** (OOP, collections, exception hand
 
 ## Skills
 - **Languages:** Java (Core), SQL
-- **Databases:** MySQL
+- 
 - **Tools:** Git, VS Code / IntelliJ IDEA
 - **Concepts:** OOP, CRUD, JDBC, indexing
 
@@ -19,10 +19,3 @@ I am a fresher with knowledge of **Core Java** (OOP, collections, exception hand
 
 See `java-projects/LibraryManagement` for code and `db/schema.sql` for database schema.
 
-## How to run (LibraryManagement)
-1. Create MySQL database and run `db/schema.sql`.
-2. Update DB credentials in `src/Main.java`.
-3. Compile & run:
-```bash
-javac src/Main.java
-java -cp src Main
