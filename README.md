@@ -87,7 +87,7 @@
   <div class="container" data-aos="fade-up">
     <h2 class="section-title text-center">Education</h2>
     <ul class="list-group list-group-flush w-75 mx-auto">
-      <li class="list-group-item">B.E. Computer Engineering — Pune University (2021–2025)</li>
+      <li class="list-group-item">B.E. IT Engineering — Pune University (2021–2025)</li>
       <li class="list-group-item">SQL Certification — QSpiders Pune (2024)</li>
       <li class="list-group-item">Core Java Programming — Apna College</li>
       <li class="list-group-item">Web Tech (HTML, CSS, Bootstrap) — Self-Learning</li>
