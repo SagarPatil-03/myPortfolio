@@ -18,7 +18,7 @@
 <section id="about" class="py-5">
   <div class="container" data-aos="fade-up">
     <h2 class="section-title text-center">About Me</h2>
-    <p class="text-center w-75 mx-auto">Final-year Computer Engineering student with skills in Core Java, SQL, and Frontend. Passionate about IoT security and building responsive UI/UX solutions. Strong problem solver, quick learner, and team player.</p>
+    <p class="text-center w-75 mx-auto">IT Engineering student with skills in Core Java, SQL, and Frontend. Passionate about IoT security and building responsive UI/UX solutions. Strong problem solver, quick learner, and team player.</p>
   </div>
 </section>
 
