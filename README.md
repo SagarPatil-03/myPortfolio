@@ -1,41 +1,5 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>Sagar Patil — Portfolio</title>
 
-  <!-- Bootstrap -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <!-- Bootstrap Icons -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
-  <!-- Animate.css -->
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet"/>
-  <!-- AOS -->
-  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet"/>
 
-  <style>
-    body {scroll-behavior: smooth;}
-    header.hero {
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      background: linear-gradient(120deg,#0d6efd,#6610f2);
-      color: white;
-      text-align: center;
-    }
-    header.hero h1 {font-size: 3rem;}
-    .section-title {font-weight: 700; margin-bottom: 1.5rem;}
-    .card:hover {
-      transform: translateY(-8px);
-      transition: all .3s ease;
-      box-shadow: 0 12px 28px rgba(0,0,0,0.15);
-    }
-    footer {background:#111; color:#aaa;}
-    footer a {color:#fff; text-decoration:none;}
-  </style>
-</head>
 <body>
 
 <!-- HERO -->
