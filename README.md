@@ -111,15 +111,6 @@
 
 <!-- FOOTER -->
 <footer class="py-3 text-center">
-  <small>© <span id="year"></span> Sagar Patil | Built with ❤️ using Bootstrap</small>
-</footer>
 
-<!-- Scripts -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
-<script>
-  AOS.init();
-  document.getElementById('year').textContent = new Date().getFullYear();
-</script>
 </body>
 </html>
